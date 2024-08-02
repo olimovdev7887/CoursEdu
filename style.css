@@ -1,0 +1,239 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    margin: 0;
+    background-color: #FFDCD1;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: #23A6F0;
+}
+
+.contact {
+    width: 100%;
+    height: 989px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.each {
+    width: 1, 044px;
+    height: 134px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.hh {
+    font-family: "Montserrat", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    color: black;
+}
+
+.ff {
+    color: #737373;
+}
+
+.designer {
+    width: Hug (1, 050px)px;
+    height: Hug (378.01px)px;
+    gap: 30px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.regina {
+    text-align: center;
+    width: 508px;
+    height: 420px;
+    padding: 25px 25px 0px 25px;
+    background-color: white;
+}
+
+.gg {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.20000000298023224px;
+    color: black;
+}
+
+.pre-contact {
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+}
+
+.imgg {
+    width: 128px;
+    height: 128px;
+    border-radius: 50%;
+}
+
+.hq {
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: center;
+    color: black;
+}
+
+.miles {
+    text-align: center;
+    width: 508px;
+    height: 420px;
+    padding: 25px 25px 0px 25px;
+    background-color: white;
+}
+
+.pop {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+}
+
+.email {
+    width: 100%;
+    height: 700px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: white;
+    padding-top: 170px;
+}
+
+.hh2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    color: black;
+}
+
+.pol {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    color: #737373;
+}
+
+.gmail {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.int {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    width: 688px;
+    height: 58px;
+    gap: 0px;
+    opacity: 0px;
+    outline: none;
+    border: none;
+    background: #F9F9F9;
+    padding-left: 30px;
+}
+
+.net {
+    width: 117px;
+    height: 58px;
+    padding: 15px 22.5px 15px 22.5px;
+    gap: 10px;
+    border-radius: 0px 5px 5px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    background-color: #23A6F0;
+    color: white;
+    border: none;
+}
+
+footer {
+    width: 100%;
+    height: 338px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 15pc;
+    background-color: white;
+    justify-content: center;
+}
+
+footer nav {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+}
+
+footer h2 {
+    color: black;
+}
+
+footer a {
+    color: black;
+}
+
+.p {
+    color: black;
+}
+
+.mmg {
+    width: 24px;
+    height: 24px;
+    padding: 0px 0.5px 1px 0.5px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.social {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
+
+.foot {
+    width: 100%;
+    height: 76px;
+    top: 338px;
+    gap: 40px;
+    opacity: 0px;
+    background-color: #FAFAFA;
+    text-align: center;
+    padding-top: 3px;
+}
+
+.hh6 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    color: #737373;
+}
